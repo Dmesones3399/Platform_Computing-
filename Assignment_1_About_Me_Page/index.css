@@ -1,0 +1,21 @@
+h1{
+    background-color: yellow;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.section{
+     font-weight: bolder ;
+     font-size: larger;
+     border-bottom-style: double;
+
+}
+
+body{
+background-color: rgb(127, 232, 255);
+}
